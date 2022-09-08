@@ -1,0 +1,46 @@
+{
+  "pessoas": [
+    {
+     "id": 1,
+     "nome": "Fernando",
+     "data_de_nascimento": "1998/08/30",
+     "telefones":[
+      {
+        "id": 1,
+        "numero": "40028922"
+      },
+      {
+        "id": 2,
+        "numero": "12345678"
+      }
+     ]
+    },
+    {
+      "id": 2,
+      "nome": "kleber",
+      "data_de_nascimento": "1950/10/20",
+      "telefones":[
+       {
+         "id": 38,
+         "numero": "987652300"
+       },
+       {
+         "id": 27,
+         "numero": "098764562"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "nome": "David",
+      "data_de_nascimento": "1945/07/30",
+      "telefones":[
+       {
+         "id": 2008,
+         "numero": "8900997764"
+       }
+      
+      ]
+     }
+  ]
+}
